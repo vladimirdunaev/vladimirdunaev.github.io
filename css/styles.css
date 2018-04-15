@@ -1,1 +1,41 @@
 /*styles.css*/
+ul.white {
+  list-style-image: url(img/check-square-o-w.png); /* Путь к изображению маркера */
+  font-size: 20px;
+ }
+ul.black {
+  list-style-image: url(img/check-square-o-b.png); /* Путь к изображению маркера */
+  font-size: 20px;
+ }
+.futericon {
+  height: 35px;
+}
+.futericon:hover {
+  height: 33px;
+}
+.h-min {
+  min-height: 300px;
+}
+.svg {
+  height: 30px;
+  width: 30px;
+  /* fill: #f0ad4e; */
+}
+.svg:hover {
+  fill: #f0ad4e;
+}
+.svghtml {
+  fill: #fff;
+}
+.svghtml:hover {
+  fill: #000;
+}
+.svgf {
+  height: 15px;
+  width: 15px;
+}
+.svgf:hover {
+  height: 16px;
+  width: 16px;
+  fill: #ff9300;
+}
