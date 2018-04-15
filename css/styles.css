@@ -1,10 +1,10 @@
 /*styles.css*/
 ul.white {
-  list-style-image: url(img/check-square-o-w.png); /* Путь к изображению маркера */
+  list-style-image: url(../img/check-square-o-w.png); /* Путь к изображению маркера */
   font-size: 20px;
  }
 ul.black {
-  list-style-image: url(img/check-square-o-b.png); /* Путь к изображению маркера */
+  list-style-image: url(../img/check-square-o-b.png); /* Путь к изображению маркера */
   font-size: 20px;
  }
 .futericon {
