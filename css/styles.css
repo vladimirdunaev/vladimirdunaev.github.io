@@ -39,3 +39,17 @@ ul.black {
   width: 16px;
   fill: #ff9300;
 }
+
+.scroll_up {
+  position: fixed; /*Расположение стрелки на странице: внизу справа с отступами 10рх*/
+  top:auto;
+  bottom:7%;
+  left:auto; 
+  right:3%;
+  transform : scale(1.5);
+  fill: #0493d6;
+}
+.scroll_up:hover {
+  transform : scale(1.6);
+  fill: #006696;
+}
