@@ -46,10 +46,10 @@ ul.black {
   bottom:7%;
   left:auto; 
   right:3%;
-  transform : scale(1.5);
+  transform : scale(3);
   fill: #0493d6;
 }
 .scroll_up:hover {
-  transform : scale(1.6);
+  transform : scale(3.1);
   fill: #006696;
 }
